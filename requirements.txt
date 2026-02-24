@@ -1,5 +1,5 @@
-akshare==1.15.54
-pandas>=2.0.0
+akshare
+pandas
 numpy
 matplotlib
 streamlit>=1.30.0
