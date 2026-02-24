@@ -1,4 +1,4 @@
-akshare
+akshare==1.15.54
 pandas
 numpy
 matplotlib
