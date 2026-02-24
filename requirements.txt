@@ -1,5 +1,6 @@
-akshare
-pandas
-numpy
-matplotlib
-streamlit
+akshare==1.15.54
+pandas>=2.0.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+streamlit>=1.30.0
+altair<5.0.0
